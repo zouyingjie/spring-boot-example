@@ -1,0 +1,7 @@
+server:
+  port: 9090
+
+
+custom:
+  name: proterty-example
+  desc: how to import property
